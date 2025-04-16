@@ -1,0 +1,451 @@
+Group,Category,Price,City,Country
+Eating Out,🍱Lunch Menu,$14.6,Berlin,Germany
+Eating Out,"🥂Dinner in a Restaurant,for 2",$65.3,Berlin,Germany
+Eating Out,"🥪Fast food meal,equiv. McDonald's",$12.5,Berlin,Germany
+Eating Out,"🍻Beer in a Pub,0.5 L or 16 fl oz",$4.57,Berlin,Germany
+Eating Out,☕Cappuccino,$3.85,Berlin,Germany
+Eating Out,"🥤Pepsi / Coke,0.5 L or 16.9 fl oz",$2.94,Berlin,Germany
+Rent & Utilities,"🏙️1 bedroom apartment in city Center,40 m2 or 430 ft2",$1156,Berlin,Germany
+Rent & Utilities,"🏡Cheap 1 bedroom apartment,40 m2 or 430 ft2",$832,Berlin,Germany
+Rent & Utilities,"🏙️3 bedroom apartment in city Center,80 m2 or 860 ft2",$2233,Berlin,Germany
+Rent & Utilities,"🏡Cheap 3 bedroom apartment,80 m2 or 860 ft2",$1562,Berlin,Germany
+Rent & Utilities,"🔌Utility Bill one person,electricity, heating, water, etc.",$190,Berlin,Germany
+Rent & Utilities,"🔌Utility Bill for a Family,electricity, heating, water, etc.",$293,Berlin,Germany
+Rent & Utilities,"🌐Internet plan,50 Mbps+ 1 month unlimited",$40.1,Berlin,Germany
+Rent & Utilities,🏦Mortgage Interest Rate for 20 Years,N/A,Berlin,Germany
+Rent & Utilities,"🏙️Apartment price to Buy in city Center,1 m2 or 10 ft2",$8133,Berlin,Germany
+Rent & Utilities,"🏡House price to Buy in Suburbs,1 m2 or 10 ft2",$5908,Berlin,Germany
+Transportation,🚌Local transport ticket,$3.68,Berlin,Germany
+Transportation,🎟️Monthly ticket local transport,$57.5,Berlin,Germany
+Transportation,"🚕Taxi Ride,8 km or 5 mi",$23.9,Berlin,Germany
+Transportation,"⛽Gas / Petrol,1 L or 0.26 gal",$1.81,Berlin,Germany
+Groceries,"🥛Milk,1 L or 1 qt",$1.28,Berlin,Germany
+Groceries,"🍞Bread,0.5 kg or 1.1 lb",$1.93,Berlin,Germany
+Groceries,"🍚Rice,1 kg or 2.2 lb",$2.88,Berlin,Germany
+Groceries,"🥚Eggs,x12",$3.66,Berlin,Germany
+Groceries,"🧀Cheese,1 kg or 2.2 lb",$13.2,Berlin,Germany
+Groceries,"🐔Chicken Breast,1 kg or 2.2 lb",$11,Berlin,Germany
+Groceries,"🥩Round Steak,1 kg or 2.2 lb",$16.7,Berlin,Germany
+Groceries,"🍏Apples,1 kg or 2.2 lb",$2.93,Berlin,Germany
+Groceries,"🍌Banana,1 kg or 2.2 lb",$1.94,Berlin,Germany
+Groceries,"🍊Oranges,1 kg or 2.2 lb",$2.27,Berlin,Germany
+Groceries,"🍅Tomato,1 kg or 2.2 lb",$3.75,Berlin,Germany
+Groceries,"🥔Potato,1 kg or 2.2 lb",$1.99,Berlin,Germany
+Groceries,"🧅Onion,1 kg or 2.2 lb",$1.81,Berlin,Germany
+Groceries,"🌊Water,1 L or 1 qt",$0.55,Berlin,Germany
+Groceries,"🍹Coca-Cola / Pepsi,2 L or 67.6 fl oz",$1.9,Berlin,Germany
+Groceries,"🍾Wine (mid-priced),750 mL bottle",$6.55,Berlin,Germany
+Groceries,"🍺Beer,0.5 L or 16 fl oz",$1.2,Berlin,Germany
+Groceries,🚬Cigarette pack,$9.01,Berlin,Germany
+Groceries,"💊Cold medicince,1 week",$9.37,Berlin,Germany
+Groceries,🧴Hair Shampoo,$3.2,Berlin,Germany
+Groceries,"🧻Toilet paper,4 rolls",$1.73,Berlin,Germany
+Groceries,"👄Toothpaste,1 tube",$2.11,Berlin,Germany
+Other,"🏋️Gym Membership,1 month",$33.3,Berlin,Germany
+Other,"🎫Cinema Ticket,1 person",$13,Berlin,Germany
+Other,👩‍⚕️Doctor's visit,$59.3,Berlin,Germany
+Other,"💇Haircut,simple",$19.3,Berlin,Germany
+Other,👖Brand Jeans,$88.2,Berlin,Germany
+Other,👟Brand Sneakers,$95.1,Berlin,Germany
+Other,"👶Daycare or Preschool,1 month",$186,Berlin,Germany
+Other,"🏫International Primary School,1 year",$9774,Berlin,Germany
+Eating Out,🍱Lunch Menu,$17.5,Hamburg,Germany
+Eating Out,"🥂Dinner in a Restaurant,for 2",$83.9,Hamburg,Germany
+Eating Out,"🥪Fast food meal,equiv. McDonald's",$10.6,Hamburg,Germany
+Eating Out,"🍻Beer in a Pub,0.5 L or 16 fl oz",$5.27,Hamburg,Germany
+Eating Out,☕Cappuccino,$4.1,Hamburg,Germany
+Eating Out,"🥤Pepsi / Coke,0.5 L or 16.9 fl oz",$3.08,Hamburg,Germany
+Rent & Utilities,"🏙️1 bedroom apartment in city Center,40 m2 or 430 ft2",$1071,Hamburg,Germany
+Rent & Utilities,"🏡Cheap 1 bedroom apartment,40 m2 or 430 ft2",$755,Hamburg,Germany
+Rent & Utilities,"🏙️3 bedroom apartment in city Center,80 m2 or 860 ft2",$2236,Hamburg,Germany
+Rent & Utilities,"🏡Cheap 3 bedroom apartment,80 m2 or 860 ft2",$1550,Hamburg,Germany
+Rent & Utilities,"🔌Utility Bill one person,electricity, heating, water, etc.",$209,Hamburg,Germany
+Rent & Utilities,"🔌Utility Bill for a Family,electricity, heating, water, etc.",$318,Hamburg,Germany
+Rent & Utilities,"🌐Internet plan,50 Mbps+ 1 month unlimited",$39,Hamburg,Germany
+Rent & Utilities,🏦Mortgage Interest Rate for 20 Years,N/A,Hamburg,Germany
+Rent & Utilities,"🏙️Apartment price to Buy in city Center,1 m2 or 10 ft2",$8190,Hamburg,Germany
+Rent & Utilities,"🏡House price to Buy in Suburbs,1 m2 or 10 ft2",$5824,Hamburg,Germany
+Transportation,🚌Local transport ticket,$3.69,Hamburg,Germany
+Transportation,🎟️Monthly ticket local transport,$52.1,Hamburg,Germany
+Transportation,"🚕Taxi Ride,8 km or 5 mi",$29,Hamburg,Germany
+Transportation,"⛽Gas / Petrol,1 L or 0.26 gal",$1.86,Hamburg,Germany
+Groceries,"🥛Milk,1 L or 1 qt",$1.17,Hamburg,Germany
+Groceries,"🍞Bread,0.5 kg or 1.1 lb",$2.04,Hamburg,Germany
+Groceries,"🍚Rice,1 kg or 2.2 lb",$3.14,Hamburg,Germany
+Groceries,"🥚Eggs,x12",$3.38,Hamburg,Germany
+Groceries,"🧀Cheese,1 kg or 2.2 lb",$13,Hamburg,Germany
+Groceries,"🐔Chicken Breast,1 kg or 2.2 lb",$13.9,Hamburg,Germany
+Groceries,"🥩Round Steak,1 kg or 2.2 lb",$18.8,Hamburg,Germany
+Groceries,"🍏Apples,1 kg or 2.2 lb",$2.92,Hamburg,Germany
+Groceries,"🍌Banana,1 kg or 2.2 lb",$1.66,Hamburg,Germany
+Groceries,"🍊Oranges,1 kg or 2.2 lb",$2.19,Hamburg,Germany
+Groceries,"🍅Tomato,1 kg or 2.2 lb",$4.38,Hamburg,Germany
+Groceries,"🥔Potato,1 kg or 2.2 lb",$1.64,Hamburg,Germany
+Groceries,"🧅Onion,1 kg or 2.2 lb",$1.69,Hamburg,Germany
+Groceries,"🌊Water,1 L or 1 qt",$0.6,Hamburg,Germany
+Groceries,"🍹Coca-Cola / Pepsi,2 L or 67.6 fl oz",$2.12,Hamburg,Germany
+Groceries,"🍾Wine (mid-priced),750 mL bottle",$6.28,Hamburg,Germany
+Groceries,"🍺Beer,0.5 L or 16 fl oz",$1.01,Hamburg,Germany
+Groceries,🚬Cigarette pack,$8.67,Hamburg,Germany
+Groceries,"💊Cold medicince,1 week",$11.6,Hamburg,Germany
+Groceries,🧴Hair Shampoo,$3.11,Hamburg,Germany
+Groceries,"🧻Toilet paper,4 rolls",$1.57,Hamburg,Germany
+Groceries,"👄Toothpaste,1 tube",$1.77,Hamburg,Germany
+Other,"🏋️Gym Membership,1 month",$45.5,Hamburg,Germany
+Other,"🎫Cinema Ticket,1 person",$14.6,Hamburg,Germany
+Other,👩‍⚕️Doctor's visit,$58.4,Hamburg,Germany
+Other,"💇Haircut,simple",$23.1,Hamburg,Germany
+Other,👖Brand Jeans,$85.6,Hamburg,Germany
+Other,👟Brand Sneakers,$108,Hamburg,Germany
+Other,"👶Daycare or Preschool,1 month",$233,Hamburg,Germany
+Other,"🏫International Primary School,1 year",$24460,Hamburg,Germany
+Eating Out,🍱Lunch Menu,$16.2,Munich,Germany
+Eating Out,"🥂Dinner in a Restaurant,for 2",$69.1,Munich,Germany
+Eating Out,"🥪Fast food meal,equiv. McDonald's",$12.6,Munich,Germany
+Eating Out,"🍻Beer in a Pub,0.5 L or 16 fl oz",$4.92,Munich,Germany
+Eating Out,☕Cappuccino,$4.32,Munich,Germany
+Eating Out,"🥤Pepsi / Coke,0.5 L or 16.9 fl oz",$3.69,Munich,Germany
+Rent & Utilities,"🏙️1 bedroom apartment in city Center,40 m2 or 430 ft2",$1323,Munich,Germany
+Rent & Utilities,"🏡Cheap 1 bedroom apartment,40 m2 or 430 ft2",$1006,Munich,Germany
+Rent & Utilities,"🏙️3 bedroom apartment in city Center,80 m2 or 860 ft2",$2618,Munich,Germany
+Rent & Utilities,"🏡Cheap 3 bedroom apartment,80 m2 or 860 ft2",$2005,Munich,Germany
+Rent & Utilities,"🔌Utility Bill one person,electricity, heating, water, etc.",$205,Munich,Germany
+Rent & Utilities,"🔌Utility Bill for a Family,electricity, heating, water, etc.",$313,Munich,Germany
+Rent & Utilities,"🌐Internet plan,50 Mbps+ 1 month unlimited",$38.8,Munich,Germany
+Rent & Utilities,🏦Mortgage Interest Rate for 20 Years,N/A,Munich,Germany
+Rent & Utilities,"🏙️Apartment price to Buy in city Center,1 m2 or 10 ft2",$12224,Munich,Germany
+Rent & Utilities,"🏡House price to Buy in Suburbs,1 m2 or 10 ft2",$8488,Munich,Germany
+Transportation,🚌Local transport ticket,$4.1,Munich,Germany
+Transportation,🎟️Monthly ticket local transport,$59.5,Munich,Germany
+Transportation,"🚕Taxi Ride,8 km or 5 mi",$24.8,Munich,Germany
+Transportation,"⛽Gas / Petrol,1 L or 0.26 gal",$1.85,Munich,Germany
+Groceries,"🥛Milk,1 L or 1 qt",$1.36,Munich,Germany
+Groceries,"🍞Bread,0.5 kg or 1.1 lb",$2.12,Munich,Germany
+Groceries,"🍚Rice,1 kg or 2.2 lb",$2.7,Munich,Germany
+Groceries,"🥚Eggs,x12",$3.7,Munich,Germany
+Groceries,"🧀Cheese,1 kg or 2.2 lb",$14.8,Munich,Germany
+Groceries,"🐔Chicken Breast,1 kg or 2.2 lb",$11.7,Munich,Germany
+Groceries,"🥩Round Steak,1 kg or 2.2 lb",$18.9,Munich,Germany
+Groceries,"🍏Apples,1 kg or 2.2 lb",$2.88,Munich,Germany
+Groceries,"🍌Banana,1 kg or 2.2 lb",$1.86,Munich,Germany
+Groceries,"🍊Oranges,1 kg or 2.2 lb",$2.53,Munich,Germany
+Groceries,"🍅Tomato,1 kg or 2.2 lb",$3.62,Munich,Germany
+Groceries,"🥔Potato,1 kg or 2.2 lb",$1.85,Munich,Germany
+Groceries,"🧅Onion,1 kg or 2.2 lb",$1.56,Munich,Germany
+Groceries,"🌊Water,1 L or 1 qt",$0.57,Munich,Germany
+Groceries,"🍹Coca-Cola / Pepsi,2 L or 67.6 fl oz",$1.83,Munich,Germany
+Groceries,"🍾Wine (mid-priced),750 mL bottle",$6.83,Munich,Germany
+Groceries,"🍺Beer,0.5 L or 16 fl oz",$1.1,Munich,Germany
+Groceries,🚬Cigarette pack,$9.08,Munich,Germany
+Groceries,"💊Cold medicince,1 week",$8.17,Munich,Germany
+Groceries,🧴Hair Shampoo,$3.34,Munich,Germany
+Groceries,"🧻Toilet paper,4 rolls",$1.92,Munich,Germany
+Groceries,"👄Toothpaste,1 tube",$1.42,Munich,Germany
+Other,"🏋️Gym Membership,1 month",$52.2,Munich,Germany
+Other,"🎫Cinema Ticket,1 person",$13.5,Munich,Germany
+Other,👩‍⚕️Doctor's visit,$73.1,Munich,Germany
+Other,"💇Haircut,simple",$22.5,Munich,Germany
+Other,👖Brand Jeans,$92.9,Munich,Germany
+Other,👟Brand Sneakers,$97.9,Munich,Germany
+Other,"👶Daycare or Preschool,1 month",$953,Munich,Germany
+Other,"🏫International Primary School,1 year",$14702,Munich,Germany
+Eating Out,🍱Lunch Menu,$13.1,Cologne,Germany
+Eating Out,"🥂Dinner in a Restaurant,for 2",$61.3,Cologne,Germany
+Eating Out,"🥪Fast food meal,equiv. McDonald's",$10.4,Cologne,Germany
+Eating Out,"🍻Beer in a Pub,0.5 L or 16 fl oz",$4.67,Cologne,Germany
+Eating Out,☕Cappuccino,$3.64,Cologne,Germany
+Eating Out,"🥤Pepsi / Coke,0.5 L or 16.9 fl oz",$3.1,Cologne,Germany
+Rent & Utilities,"🏙️1 bedroom apartment in city Center,40 m2 or 430 ft2",$963,Cologne,Germany
+Rent & Utilities,"🏡Cheap 1 bedroom apartment,40 m2 or 430 ft2",$743,Cologne,Germany
+Rent & Utilities,"🏙️3 bedroom apartment in city Center,80 m2 or 860 ft2",$1902,Cologne,Germany
+Rent & Utilities,"🏡Cheap 3 bedroom apartment,80 m2 or 860 ft2",$1332,Cologne,Germany
+Rent & Utilities,"🔌Utility Bill one person,electricity, heating, water, etc.",$120,Cologne,Germany
+Rent & Utilities,"🔌Utility Bill for a Family,electricity, heating, water, etc.",$186,Cologne,Germany
+Rent & Utilities,"🌐Internet plan,50 Mbps+ 1 month unlimited",$40.4,Cologne,Germany
+Rent & Utilities,🏦Mortgage Interest Rate for 20 Years,N/A,Cologne,Germany
+Rent & Utilities,"🏙️Apartment price to Buy in city Center,1 m2 or 10 ft2",$6163,Cologne,Germany
+Rent & Utilities,"🏡House price to Buy in Suburbs,1 m2 or 10 ft2",$5539,Cologne,Germany
+Transportation,🚌Local transport ticket,$3.35,Cologne,Germany
+Transportation,🎟️Monthly ticket local transport,$56.6,Cologne,Germany
+Transportation,"🚕Taxi Ride,8 km or 5 mi",$22.1,Cologne,Germany
+Transportation,"⛽Gas / Petrol,1 L or 0.26 gal",$1.83,Cologne,Germany
+Groceries,"🥛Milk,1 L or 1 qt",$1.23,Cologne,Germany
+Groceries,"🍞Bread,0.5 kg or 1.1 lb",$1.8,Cologne,Germany
+Groceries,"🍚Rice,1 kg or 2.2 lb",$2.69,Cologne,Germany
+Groceries,"🥚Eggs,x12",$3.95,Cologne,Germany
+Groceries,"🧀Cheese,1 kg or 2.2 lb",$13.5,Cologne,Germany
+Groceries,"🐔Chicken Breast,1 kg or 2.2 lb",$13.2,Cologne,Germany
+Groceries,"🥩Round Steak,1 kg or 2.2 lb",$20.1,Cologne,Germany
+Groceries,"🍏Apples,1 kg or 2.2 lb",$2.71,Cologne,Germany
+Groceries,"🍌Banana,1 kg or 2.2 lb",$1.55,Cologne,Germany
+Groceries,"🍊Oranges,1 kg or 2.2 lb",$2.06,Cologne,Germany
+Groceries,"🍅Tomato,1 kg or 2.2 lb",$4.26,Cologne,Germany
+Groceries,"🥔Potato,1 kg or 2.2 lb",$1.64,Cologne,Germany
+Groceries,"🧅Onion,1 kg or 2.2 lb",$1.64,Cologne,Germany
+Groceries,"🌊Water,1 L or 1 qt",$0.64,Cologne,Germany
+Groceries,"🍹Coca-Cola / Pepsi,2 L or 67.6 fl oz",$2.22,Cologne,Germany
+Groceries,"🍾Wine (mid-priced),750 mL bottle",$6.56,Cologne,Germany
+Groceries,"🍺Beer,0.5 L or 16 fl oz",$1.02,Cologne,Germany
+Groceries,🚬Cigarette pack,$8.09,Cologne,Germany
+Groceries,"💊Cold medicince,1 week",$8.17,Cologne,Germany
+Groceries,🧴Hair Shampoo,$2.2,Cologne,Germany
+Groceries,"🧻Toilet paper,4 rolls",$1.75,Cologne,Germany
+Groceries,"👄Toothpaste,1 tube",$1.5,Cologne,Germany
+Other,"🏋️Gym Membership,1 month",$32.5,Cologne,Germany
+Other,"🎫Cinema Ticket,1 person",$11.9,Cologne,Germany
+Other,👩‍⚕️Doctor's visit,$49.2,Cologne,Germany
+Other,"💇Haircut,simple",$18.4,Cologne,Germany
+Other,👖Brand Jeans,$94.7,Cologne,Germany
+Other,👟Brand Sneakers,$103,Cologne,Germany
+Other,"👶Daycare or Preschool,1 month",$773,Cologne,Germany
+Other,"🏫International Primary School,1 year",$15595,Cologne,Germany
+Eating Out,🍱Lunch Menu,$19.1,Frankfurt,Germany
+Eating Out,"🥂Dinner in a Restaurant,for 2",$72.5,Frankfurt,Germany
+Eating Out,"🥪Fast food meal,equiv. McDonald's",$11.3,Frankfurt,Germany
+Eating Out,"🍻Beer in a Pub,0.5 L or 16 fl oz",$5.06,Frankfurt,Germany
+Eating Out,☕Cappuccino,$3.92,Frankfurt,Germany
+Eating Out,"🥤Pepsi / Coke,0.5 L or 16.9 fl oz",$3.17,Frankfurt,Germany
+Rent & Utilities,"🏙️1 bedroom apartment in city Center,40 m2 or 430 ft2",$1133,Frankfurt,Germany
+Rent & Utilities,"🏡Cheap 1 bedroom apartment,40 m2 or 430 ft2",$849,Frankfurt,Germany
+Rent & Utilities,"🏙️3 bedroom apartment in city Center,80 m2 or 860 ft2",$2172,Frankfurt,Germany
+Rent & Utilities,"🏡Cheap 3 bedroom apartment,80 m2 or 860 ft2",$1473,Frankfurt,Germany
+Rent & Utilities,"🔌Utility Bill one person,electricity, heating, water, etc.",$186,Frankfurt,Germany
+Rent & Utilities,"🔌Utility Bill for a Family,electricity, heating, water, etc.",$282,Frankfurt,Germany
+Rent & Utilities,"🌐Internet plan,50 Mbps+ 1 month unlimited",$33.7,Frankfurt,Germany
+Rent & Utilities,🏦Mortgage Interest Rate for 20 Years,N/A,Frankfurt,Germany
+Rent & Utilities,"🏙️Apartment price to Buy in city Center,1 m2 or 10 ft2",$8106,Frankfurt,Germany
+Rent & Utilities,"🏡House price to Buy in Suburbs,1 m2 or 10 ft2",$4832,Frankfurt,Germany
+Transportation,🚌Local transport ticket,$3.86,Frankfurt,Germany
+Transportation,🎟️Monthly ticket local transport,$54.5,Frankfurt,Germany
+Transportation,"🚕Taxi Ride,8 km or 5 mi",$26.3,Frankfurt,Germany
+Transportation,"⛽Gas / Petrol,1 L or 0.26 gal",$1.79,Frankfurt,Germany
+Groceries,"🥛Milk,1 L or 1 qt",$1.3,Frankfurt,Germany
+Groceries,"🍞Bread,0.5 kg or 1.1 lb",$1.96,Frankfurt,Germany
+Groceries,"🍚Rice,1 kg or 2.2 lb",$2.52,Frankfurt,Germany
+Groceries,"🥚Eggs,x12",$4.02,Frankfurt,Germany
+Groceries,"🧀Cheese,1 kg or 2.2 lb",$13.1,Frankfurt,Germany
+Groceries,"🐔Chicken Breast,1 kg or 2.2 lb",$11.7,Frankfurt,Germany
+Groceries,"🥩Round Steak,1 kg or 2.2 lb",$17.5,Frankfurt,Germany
+Groceries,"🍏Apples,1 kg or 2.2 lb",$2.91,Frankfurt,Germany
+Groceries,"🍌Banana,1 kg or 2.2 lb",$1.73,Frankfurt,Germany
+Groceries,"🍊Oranges,1 kg or 2.2 lb",$2.12,Frankfurt,Germany
+Groceries,"🍅Tomato,1 kg or 2.2 lb",$3.84,Frankfurt,Germany
+Groceries,"🥔Potato,1 kg or 2.2 lb",$1.77,Frankfurt,Germany
+Groceries,"🧅Onion,1 kg or 2.2 lb",$1.66,Frankfurt,Germany
+Groceries,"🌊Water,1 L or 1 qt",$0.59,Frankfurt,Germany
+Groceries,"🍹Coca-Cola / Pepsi,2 L or 67.6 fl oz",$1.82,Frankfurt,Germany
+Groceries,"🍾Wine (mid-priced),750 mL bottle",$6.11,Frankfurt,Germany
+Groceries,"🍺Beer,0.5 L or 16 fl oz",$0.97,Frankfurt,Germany
+Groceries,🚬Cigarette pack,$8.41,Frankfurt,Germany
+Groceries,"💊Cold medicince,1 week",$10.4,Frankfurt,Germany
+Groceries,🧴Hair Shampoo,$3.52,Frankfurt,Germany
+Groceries,"🧻Toilet paper,4 rolls",$1.67,Frankfurt,Germany
+Groceries,"👄Toothpaste,1 tube",$2.15,Frankfurt,Germany
+Other,"🏋️Gym Membership,1 month",$53.7,Frankfurt,Germany
+Other,"🎫Cinema Ticket,1 person",$14.8,Frankfurt,Germany
+Other,👩‍⚕️Doctor's visit,$95.1,Frankfurt,Germany
+Other,"💇Haircut,simple",$19.1,Frankfurt,Germany
+Other,👖Brand Jeans,$86,Frankfurt,Germany
+Other,👟Brand Sneakers,$91.7,Frankfurt,Germany
+Other,"👶Daycare or Preschool,1 month",$555,Frankfurt,Germany
+Other,"🏫International Primary School,1 year",$14496,Frankfurt,Germany
+Eating Out,🍱Lunch Menu,$8.4,Cape-Town,South-Africa
+Eating Out,"🥂Dinner in a Restaurant,for 2",$32.1,Cape-Town,South-Africa
+Eating Out,"🥪Fast food meal,equiv. McDonald's",$4.87,Cape-Town,South-Africa
+Eating Out,"🍻Beer in a Pub,0.5 L or 16 fl oz",$2.58,Cape-Town,South-Africa
+Eating Out,☕Cappuccino,$2.03,Cape-Town,South-Africa
+Eating Out,"🥤Pepsi / Coke,0.5 L or 16.9 fl oz",$1.03,Cape-Town,South-Africa
+Rent & Utilities,"🏙️1 bedroom apartment in city Center,40 m2 or 430 ft2",$677,Cape-Town,South-Africa
+Rent & Utilities,"🏡Cheap 1 bedroom apartment,40 m2 or 430 ft2",$435,Cape-Town,South-Africa
+Rent & Utilities,"🏙️3 bedroom apartment in city Center,80 m2 or 860 ft2",$1304,Cape-Town,South-Africa
+Rent & Utilities,"🏡Cheap 3 bedroom apartment,80 m2 or 860 ft2",$863,Cape-Town,South-Africa
+Rent & Utilities,"🔌Utility Bill one person,electricity, heating, water, etc.",$59.9,Cape-Town,South-Africa
+Rent & Utilities,"🔌Utility Bill for a Family,electricity, heating, water, etc.",$93.1,Cape-Town,South-Africa
+Rent & Utilities,"🌐Internet plan,50 Mbps+ 1 month unlimited",$38.9,Cape-Town,South-Africa
+Rent & Utilities,🏦Mortgage Interest Rate for 20 Years,N/A,Cape-Town,South-Africa
+Rent & Utilities,"🏙️Apartment price to Buy in city Center,1 m2 or 10 ft2",$1804,Cape-Town,South-Africa
+Rent & Utilities,"🏡House price to Buy in Suburbs,1 m2 or 10 ft2",$1180,Cape-Town,South-Africa
+Transportation,🚌Local transport ticket,$1.09,Cape-Town,South-Africa
+Transportation,🎟️Monthly ticket local transport,$39,Cape-Town,South-Africa
+Transportation,"🚕Taxi Ride,8 km or 5 mi",$8.47,Cape-Town,South-Africa
+Transportation,"⛽Gas / Petrol,1 L or 0.26 gal",$1.23,Cape-Town,South-Africa
+Groceries,"🥛Milk,1 L or 1 qt",$1.08,Cape-Town,South-Africa
+Groceries,"🍞Bread,0.5 kg or 1.1 lb",$1.03,Cape-Town,South-Africa
+Groceries,"🍚Rice,1 kg or 2.2 lb",$1.48,Cape-Town,South-Africa
+Groceries,"🥚Eggs,x12",$2.58,Cape-Town,South-Africa
+Groceries,"🧀Cheese,1 kg or 2.2 lb",$8.33,Cape-Town,South-Africa
+Groceries,"🐔Chicken Breast,1 kg or 2.2 lb",$5.42,Cape-Town,South-Africa
+Groceries,"🥩Round Steak,1 kg or 2.2 lb",$7.24,Cape-Town,South-Africa
+Groceries,"🍏Apples,1 kg or 2.2 lb",$1.53,Cape-Town,South-Africa
+Groceries,"🍌Banana,1 kg or 2.2 lb",$1.45,Cape-Town,South-Africa
+Groceries,"🍊Oranges,1 kg or 2.2 lb",$1.47,Cape-Town,South-Africa
+Groceries,"🍅Tomato,1 kg or 2.2 lb",$1.57,Cape-Town,South-Africa
+Groceries,"🥔Potato,1 kg or 2.2 lb",$1.33,Cape-Town,South-Africa
+Groceries,"🧅Onion,1 kg or 2.2 lb",$1.13,Cape-Town,South-Africa
+Groceries,"🌊Water,1 L or 1 qt",$0.62,Cape-Town,South-Africa
+Groceries,"🍹Coca-Cola / Pepsi,2 L or 67.6 fl oz",$1.43,Cape-Town,South-Africa
+Groceries,"🍾Wine (mid-priced),750 mL bottle",$5.48,Cape-Town,South-Africa
+Groceries,"🍺Beer,0.5 L or 16 fl oz",$1.39,Cape-Town,South-Africa
+Groceries,🚬Cigarette pack,$3.02,Cape-Town,South-Africa
+Groceries,"💊Cold medicince,1 week",$4.02,Cape-Town,South-Africa
+Groceries,🧴Hair Shampoo,$3.17,Cape-Town,South-Africa
+Groceries,"🧻Toilet paper,4 rolls",$2.11,Cape-Town,South-Africa
+Groceries,"👄Toothpaste,1 tube",$1.49,Cape-Town,South-Africa
+Other,"🏋️Gym Membership,1 month",$34.4,Cape-Town,South-Africa
+Other,"🎫Cinema Ticket,1 person",$6.22,Cape-Town,South-Africa
+Other,👩‍⚕️Doctor's visit,$35.7,Cape-Town,South-Africa
+Other,"💇Haircut,simple",$8.05,Cape-Town,South-Africa
+Other,👖Brand Jeans,$51,Cape-Town,South-Africa
+Other,👟Brand Sneakers,$104,Cape-Town,South-Africa
+Other,"👶Daycare or Preschool,1 month",$204,Cape-Town,South-Africa
+Other,"🏫International Primary School,1 year",$4806,Cape-Town,South-Africa
+Eating Out,🍱Lunch Menu,$9.65,Johannesburg,South-Africa
+Eating Out,"🥂Dinner in a Restaurant,for 2",$37.9,Johannesburg,South-Africa
+Eating Out,"🥪Fast food meal,equiv. McDonald's",$4.9,Johannesburg,South-Africa
+Eating Out,"🍻Beer in a Pub,0.5 L or 16 fl oz",$2.37,Johannesburg,South-Africa
+Eating Out,☕Cappuccino,$2.01,Johannesburg,South-Africa
+Eating Out,"🥤Pepsi / Coke,0.5 L or 16.9 fl oz",$0.99,Johannesburg,South-Africa
+Rent & Utilities,"🏙️1 bedroom apartment in city Center,40 m2 or 430 ft2",$377,Johannesburg,South-Africa
+Rent & Utilities,"🏡Cheap 1 bedroom apartment,40 m2 or 430 ft2",$318,Johannesburg,South-Africa
+Rent & Utilities,"🏙️3 bedroom apartment in city Center,80 m2 or 860 ft2",$790,Johannesburg,South-Africa
+Rent & Utilities,"🏡Cheap 3 bedroom apartment,80 m2 or 860 ft2",$627,Johannesburg,South-Africa
+Rent & Utilities,"🔌Utility Bill one person,electricity, heating, water, etc.",$71.9,Johannesburg,South-Africa
+Rent & Utilities,"🔌Utility Bill for a Family,electricity, heating, water, etc.",$110,Johannesburg,South-Africa
+Rent & Utilities,"🌐Internet plan,50 Mbps+ 1 month unlimited",$39.5,Johannesburg,South-Africa
+Rent & Utilities,🏦Mortgage Interest Rate for 20 Years,N/A,Johannesburg,South-Africa
+Rent & Utilities,"🏙️Apartment price to Buy in city Center,1 m2 or 10 ft2",$1031,Johannesburg,South-Africa
+Rent & Utilities,"🏡House price to Buy in Suburbs,1 m2 or 10 ft2",$684,Johannesburg,South-Africa
+Transportation,🚌Local transport ticket,$1.62,Johannesburg,South-Africa
+Transportation,🎟️Monthly ticket local transport,$72,Johannesburg,South-Africa
+Transportation,"🚕Taxi Ride,8 km or 5 mi",$9.35,Johannesburg,South-Africa
+Transportation,"⛽Gas / Petrol,1 L or 0.26 gal",$1.28,Johannesburg,South-Africa
+Groceries,"🥛Milk,1 L or 1 qt",$1.18,Johannesburg,South-Africa
+Groceries,"🍞Bread,0.5 kg or 1.1 lb",$0.95,Johannesburg,South-Africa
+Groceries,"🍚Rice,1 kg or 2.2 lb",$1.36,Johannesburg,South-Africa
+Groceries,"🥚Eggs,x12",$2.58,Johannesburg,South-Africa
+Groceries,"🧀Cheese,1 kg or 2.2 lb",$10,Johannesburg,South-Africa
+Groceries,"🐔Chicken Breast,1 kg or 2.2 lb",$5.04,Johannesburg,South-Africa
+Groceries,"🥩Round Steak,1 kg or 2.2 lb",$6.12,Johannesburg,South-Africa
+Groceries,"🍏Apples,1 kg or 2.2 lb",$1.6,Johannesburg,South-Africa
+Groceries,"🍌Banana,1 kg or 2.2 lb",$1.49,Johannesburg,South-Africa
+Groceries,"🍊Oranges,1 kg or 2.2 lb",$1.41,Johannesburg,South-Africa
+Groceries,"🍅Tomato,1 kg or 2.2 lb",$1.59,Johannesburg,South-Africa
+Groceries,"🥔Potato,1 kg or 2.2 lb",$1.35,Johannesburg,South-Africa
+Groceries,"🧅Onion,1 kg or 2.2 lb",$1.44,Johannesburg,South-Africa
+Groceries,"🌊Water,1 L or 1 qt",$0.58,Johannesburg,South-Africa
+Groceries,"🍹Coca-Cola / Pepsi,2 L or 67.6 fl oz",$1.44,Johannesburg,South-Africa
+Groceries,"🍾Wine (mid-priced),750 mL bottle",$5.96,Johannesburg,South-Africa
+Groceries,"🍺Beer,0.5 L or 16 fl oz",$1.25,Johannesburg,South-Africa
+Groceries,🚬Cigarette pack,$2.97,Johannesburg,South-Africa
+Groceries,"💊Cold medicince,1 week",$5.59,Johannesburg,South-Africa
+Groceries,🧴Hair Shampoo,$3.94,Johannesburg,South-Africa
+Groceries,"🧻Toilet paper,4 rolls",$1.88,Johannesburg,South-Africa
+Groceries,"👄Toothpaste,1 tube",$1.42,Johannesburg,South-Africa
+Other,"🏋️Gym Membership,1 month",$33.2,Johannesburg,South-Africa
+Other,"🎫Cinema Ticket,1 person",$7.2,Johannesburg,South-Africa
+Other,👩‍⚕️Doctor's visit,$27.8,Johannesburg,South-Africa
+Other,"💇Haircut,simple",$5.55,Johannesburg,South-Africa
+Other,👖Brand Jeans,$48.5,Johannesburg,South-Africa
+Other,👟Brand Sneakers,$88.8,Johannesburg,South-Africa
+Other,"👶Daycare or Preschool,1 month",$214,Johannesburg,South-Africa
+Other,"🏫International Primary School,1 year",$5271,Johannesburg,South-Africa
+Eating Out,🍱Lunch Menu,$6.51,Durban,South-Africa
+Eating Out,"🥂Dinner in a Restaurant,for 2",$28.5,Durban,South-Africa
+Eating Out,"🥪Fast food meal,equiv. McDonald's",$4.91,Durban,South-Africa
+Eating Out,"🍻Beer in a Pub,0.5 L or 16 fl oz",$1.91,Durban,South-Africa
+Eating Out,☕Cappuccino,$1.83,Durban,South-Africa
+Eating Out,"🥤Pepsi / Coke,0.5 L or 16.9 fl oz",$0.85,Durban,South-Africa
+Rent & Utilities,"🏙️1 bedroom apartment in city Center,40 m2 or 430 ft2",$332,Durban,South-Africa
+Rent & Utilities,"🏡Cheap 1 bedroom apartment,40 m2 or 430 ft2",$311,Durban,South-Africa
+Rent & Utilities,"🏙️3 bedroom apartment in city Center,80 m2 or 860 ft2",$693,Durban,South-Africa
+Rent & Utilities,"🏡Cheap 3 bedroom apartment,80 m2 or 860 ft2",$584,Durban,South-Africa
+Rent & Utilities,"🔌Utility Bill one person,electricity, heating, water, etc.",$84.3,Durban,South-Africa
+Rent & Utilities,"🔌Utility Bill for a Family,electricity, heating, water, etc.",$128,Durban,South-Africa
+Rent & Utilities,"🌐Internet plan,50 Mbps+ 1 month unlimited",$34.5,Durban,South-Africa
+Rent & Utilities,🏦Mortgage Interest Rate for 20 Years,N/A,Durban,South-Africa
+Rent & Utilities,"🏙️Apartment price to Buy in city Center,1 m2 or 10 ft2",$1073,Durban,South-Africa
+Rent & Utilities,"🏡House price to Buy in Suburbs,1 m2 or 10 ft2",$1107,Durban,South-Africa
+Transportation,🚌Local transport ticket,$1.77,Durban,South-Africa
+Transportation,🎟️Monthly ticket local transport,$37.2,Durban,South-Africa
+Transportation,"🚕Taxi Ride,8 km or 5 mi",$6.45,Durban,South-Africa
+Transportation,"⛽Gas / Petrol,1 L or 0.26 gal",$1.28,Durban,South-Africa
+Groceries,"🥛Milk,1 L or 1 qt",$1.02,Durban,South-Africa
+Groceries,"🍞Bread,0.5 kg or 1.1 lb",$0.92,Durban,South-Africa
+Groceries,"🍚Rice,1 kg or 2.2 lb",$1.35,Durban,South-Africa
+Groceries,"🥚Eggs,x12",$2.03,Durban,South-Africa
+Groceries,"🧀Cheese,1 kg or 2.2 lb",$6.87,Durban,South-Africa
+Groceries,"🐔Chicken Breast,1 kg or 2.2 lb",$4.29,Durban,South-Africa
+Groceries,"🥩Round Steak,1 kg or 2.2 lb",$6,Durban,South-Africa
+Groceries,"🍏Apples,1 kg or 2.2 lb",$1.36,Durban,South-Africa
+Groceries,"🍌Banana,1 kg or 2.2 lb",$1.21,Durban,South-Africa
+Groceries,"🍊Oranges,1 kg or 2.2 lb",$1.17,Durban,South-Africa
+Groceries,"🍅Tomato,1 kg or 2.2 lb",$1.25,Durban,South-Africa
+Groceries,"🥔Potato,1 kg or 2.2 lb",$1.19,Durban,South-Africa
+Groceries,"🧅Onion,1 kg or 2.2 lb",$1.15,Durban,South-Africa
+Groceries,"🌊Water,1 L or 1 qt",$0.6,Durban,South-Africa
+Groceries,"🍹Coca-Cola / Pepsi,2 L or 67.6 fl oz",$1.34,Durban,South-Africa
+Groceries,"🍾Wine (mid-priced),750 mL bottle",$4.38,Durban,South-Africa
+Groceries,"🍺Beer,0.5 L or 16 fl oz",$1.47,Durban,South-Africa
+Groceries,🚬Cigarette pack,$2.81,Durban,South-Africa
+Groceries,"💊Cold medicince,1 week",$2.98,Durban,South-Africa
+Groceries,🧴Hair Shampoo,$3.17,Durban,South-Africa
+Groceries,"🧻Toilet paper,4 rolls",$1.63,Durban,South-Africa
+Groceries,"👄Toothpaste,1 tube",$1.35,Durban,South-Africa
+Other,"🏋️Gym Membership,1 month",$32.8,Durban,South-Africa
+Other,"🎫Cinema Ticket,1 person",$5.97,Durban,South-Africa
+Other,👩‍⚕️Doctor's visit,$28.9,Durban,South-Africa
+Other,"💇Haircut,simple",$3.72,Durban,South-Africa
+Other,👖Brand Jeans,$40,Durban,South-Africa
+Other,👟Brand Sneakers,$84.9,Durban,South-Africa
+Other,"👶Daycare or Preschool,1 month",$197,Durban,South-Africa
+Other,"🏫International Primary School,1 year",$4818,Durban,South-Africa
+Eating Out,🍱Lunch Menu,$8.17,Pretoria,South-Africa
+Eating Out,"🥂Dinner in a Restaurant,for 2",$32.8,Pretoria,South-Africa
+Eating Out,"🥪Fast food meal,equiv. McDonald's",$4.68,Pretoria,South-Africa
+Eating Out,"🍻Beer in a Pub,0.5 L or 16 fl oz",$2.28,Pretoria,South-Africa
+Eating Out,☕Cappuccino,$1.98,Pretoria,South-Africa
+Eating Out,"🥤Pepsi / Coke,0.5 L or 16.9 fl oz",$1.04,Pretoria,South-Africa
+Rent & Utilities,"🏙️1 bedroom apartment in city Center,40 m2 or 430 ft2",$352,Pretoria,South-Africa
+Rent & Utilities,"🏡Cheap 1 bedroom apartment,40 m2 or 430 ft2",$331,Pretoria,South-Africa
+Rent & Utilities,"🏙️3 bedroom apartment in city Center,80 m2 or 860 ft2",$649,Pretoria,South-Africa
+Rent & Utilities,"🏡Cheap 3 bedroom apartment,80 m2 or 860 ft2",$712,Pretoria,South-Africa
+Rent & Utilities,"🔌Utility Bill one person,electricity, heating, water, etc.",$75.4,Pretoria,South-Africa
+Rent & Utilities,"🔌Utility Bill for a Family,electricity, heating, water, etc.",$115,Pretoria,South-Africa
+Rent & Utilities,"🌐Internet plan,50 Mbps+ 1 month unlimited",$36.8,Pretoria,South-Africa
+Rent & Utilities,🏦Mortgage Interest Rate for 20 Years,N/A,Pretoria,South-Africa
+Rent & Utilities,"🏙️Apartment price to Buy in city Center,1 m2 or 10 ft2",$811,Pretoria,South-Africa
+Rent & Utilities,"🏡House price to Buy in Suburbs,1 m2 or 10 ft2",$737,Pretoria,South-Africa
+Transportation,🚌Local transport ticket,$2.17,Pretoria,South-Africa
+Transportation,🎟️Monthly ticket local transport,$62.2,Pretoria,South-Africa
+Transportation,"🚕Taxi Ride,8 km or 5 mi",$12.3,Pretoria,South-Africa
+Transportation,"⛽Gas / Petrol,1 L or 0.26 gal",$1.27,Pretoria,South-Africa
+Groceries,"🥛Milk,1 L or 1 qt",$1.23,Pretoria,South-Africa
+Groceries,"🍞Bread,0.5 kg or 1.1 lb",$1.04,Pretoria,South-Africa
+Groceries,"🍚Rice,1 kg or 2.2 lb",$1.57,Pretoria,South-Africa
+Groceries,"🥚Eggs,x12",$2.24,Pretoria,South-Africa
+Groceries,"🧀Cheese,1 kg or 2.2 lb",$7.3,Pretoria,South-Africa
+Groceries,"🐔Chicken Breast,1 kg or 2.2 lb",$4.42,Pretoria,South-Africa
+Groceries,"🥩Round Steak,1 kg or 2.2 lb",$6.47,Pretoria,South-Africa
+Groceries,"🍏Apples,1 kg or 2.2 lb",$1.59,Pretoria,South-Africa
+Groceries,"🍌Banana,1 kg or 2.2 lb",$1.56,Pretoria,South-Africa
+Groceries,"🍊Oranges,1 kg or 2.2 lb",$1.61,Pretoria,South-Africa
+Groceries,"🍅Tomato,1 kg or 2.2 lb",$1.65,Pretoria,South-Africa
+Groceries,"🥔Potato,1 kg or 2.2 lb",$1.24,Pretoria,South-Africa
+Groceries,"🧅Onion,1 kg or 2.2 lb",$1.23,Pretoria,South-Africa
+Groceries,"🌊Water,1 L or 1 qt",$0.74,Pretoria,South-Africa
+Groceries,"🍹Coca-Cola / Pepsi,2 L or 67.6 fl oz",$1.39,Pretoria,South-Africa
+Groceries,"🍾Wine (mid-priced),750 mL bottle",$4.51,Pretoria,South-Africa
+Groceries,"🍺Beer,0.5 L or 16 fl oz",$1.45,Pretoria,South-Africa
+Groceries,🚬Cigarette pack,$2.98,Pretoria,South-Africa
+Groceries,"💊Cold medicince,1 week",$3.91,Pretoria,South-Africa
+Groceries,🧴Hair Shampoo,$3.03,Pretoria,South-Africa
+Groceries,"🧻Toilet paper,4 rolls",$1.41,Pretoria,South-Africa
+Groceries,"👄Toothpaste,1 tube",$1.11,Pretoria,South-Africa
+Other,"🏋️Gym Membership,1 month",$32.2,Pretoria,South-Africa
+Other,"🎫Cinema Ticket,1 person",$7.31,Pretoria,South-Africa
+Other,👩‍⚕️Doctor's visit,$28.3,Pretoria,South-Africa
+Other,"💇Haircut,simple",$6.35,Pretoria,South-Africa
+Other,👖Brand Jeans,$46.2,Pretoria,South-Africa
+Other,👟Brand Sneakers,$84.3,Pretoria,South-Africa
+Other,"👶Daycare or Preschool,1 month",$200,Pretoria,South-Africa
+Other,"🏫International Primary School,1 year",$3830,Pretoria,South-Africa
